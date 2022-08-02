@@ -1,4 +1,4 @@
-# AutoML - PYCARET, PROPHET, Pororo
+# AutoML - Pycaret, Prophet, Pororo
 #
 ```
 NASA 데이터 분석 교육에서 주어지는 과제를 앞두고 상무님께서 AUTOML이라는 자동코딩 개념에 대해 알려주셨습니다.
